@@ -5,7 +5,7 @@
 2. Crear arcchivo Dockerfile
 #
 
-**_ 3. Contenido archivo Dockerfile:_**
+**_3. Contenido archivo Dockerfile:_**
 
 FROM ubuntu:latest
 
